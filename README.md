@@ -21,8 +21,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/yamadaMk12/qr-code-component-main)
-- Live Site URL: [Add live site URL here](https://yamadamk12.github.io/qr-code-component-main/)
+- Solution URL: [Click](https://github.com/yamadaMk12/qr-code-component-main)
+- Live Site URL: [Click](https://yamadamk12.github.io/qr-code-component-main/)
 
 ## My process
 
@@ -42,5 +42,5 @@ using media query
 
 ## Author
 
-- Website - [yamadaMk12](https://www.your-site.com)
+- Github - [yamadaMk12](https://github.com/yamadaMk12/qr-code-component-main)
 - Frontend Mentor - [@yamadaMk12](https://www.frontendmentor.io/profile/yamadaMk12)
