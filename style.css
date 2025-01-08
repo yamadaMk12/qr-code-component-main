@@ -48,3 +48,19 @@ main p {
     width: 250px;
     text-align: center;
 }
+
+
+@media (max-width: 375px) {
+    main {
+        width: 300px;
+    }
+
+    main img {
+        width: 260px;
+    }
+
+    main h1, main p {
+        width: 250px;
+    }
+
+}
